@@ -1,5 +1,9 @@
 # SSRIs
-CADs vs. non-CADs
+CADs vs. non-CADs gene expression and CRISPRi analysis
+
+### gene expression
+
+## PCA [from here](https://cran.r-project.org/web/packages/ggfortify/vignettes/plot_pca.html)
 
 `CADs <- read_csv("OneDrive-v2/Data/SSRIs/CADs_ge_v3_all_gene_CPM_avgs_only.csv")`
 
